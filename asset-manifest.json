@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fcc-data-bar-chart/static/css/main.98e3fbac.chunk.css",
+    "main.js": "/fcc-data-bar-chart/static/js/main.033e8887.chunk.js",
+    "main.js.map": "/fcc-data-bar-chart/static/js/main.033e8887.chunk.js.map",
+    "runtime-main.js": "/fcc-data-bar-chart/static/js/runtime-main.c5386866.js",
+    "runtime-main.js.map": "/fcc-data-bar-chart/static/js/runtime-main.c5386866.js.map",
+    "static/js/2.7efb363a.chunk.js": "/fcc-data-bar-chart/static/js/2.7efb363a.chunk.js",
+    "static/js/2.7efb363a.chunk.js.map": "/fcc-data-bar-chart/static/js/2.7efb363a.chunk.js.map",
+    "static/js/3.8531d18b.chunk.js": "/fcc-data-bar-chart/static/js/3.8531d18b.chunk.js",
+    "static/js/3.8531d18b.chunk.js.map": "/fcc-data-bar-chart/static/js/3.8531d18b.chunk.js.map",
+    "index.html": "/fcc-data-bar-chart/index.html",
+    "static/css/main.98e3fbac.chunk.css.map": "/fcc-data-bar-chart/static/css/main.98e3fbac.chunk.css.map",
+    "static/js/2.7efb363a.chunk.js.LICENSE.txt": "/fcc-data-bar-chart/static/js/2.7efb363a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5386866.js",
+    "static/js/2.7efb363a.chunk.js",
+    "static/css/main.98e3fbac.chunk.css",
+    "static/js/main.033e8887.chunk.js"
+  ]
+}
